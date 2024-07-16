@@ -21,7 +21,6 @@ const ChatbotContainer = styled.div`
     &:hover {
     animation: shrink 1s forwards;
   }
-
   @keyframes shrink {
     0% {
       transform: scale(1);
@@ -50,7 +49,6 @@ const ChatWindow = styled.div`
   &:hover {
     animation: shrink 1s forwards;
   }
-
   @keyframes shrink {
     0% {
       transform: scale(1);
@@ -127,7 +125,6 @@ const SendButton = styled.button`
   border-radius: 20px;
   cursor: pointer;
   transition: background-color 0.3s;
-
   &:hover {
     background-color: #0d47a1;
   }
@@ -141,8 +138,8 @@ const Chatbot = () => {
   const [isVisible, setIsVisible] = useState(false);
   const messagesEndRef = useRef(null);
 
-  const googleApiKey = key.env.REACT_APP_GOOGLE_API_KEY;
-  const searchEngineId = key.env.REACT_APP_SEARCH_ENGINE_ID;
+  const googleApiKey = 'AIzaSyBG9afuB7hfplBuCCB-DoJRu09FTXtF02g'; 
+  const searchEngineId = '25305101969284c44';  
 
   useEffect(() => {
     const fetchVideos = async () => {
