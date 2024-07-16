@@ -66,7 +66,7 @@ Sigue estos pasos para poner en marcha el proyecto:
 
 1. Clona el repositorio:
    \`\`\`sh
-   git clone https://github.com/tu-usuario/aluraflix.git
+   git clone https://github.com/GabrielCabrales/challengealuraflix.git
    \`\`\`
 
 2. Navega a la carpeta del proyecto:
@@ -93,7 +93,8 @@ Sigue estos pasos para poner en marcha el proyecto:
 
 ## 📷 Capturas de Pantalla
 
-> Añade algunas capturas de pantalla de tu proyecto aquí.
+![Captura de Pantalla 1](public/Flixpreview1.png)
+![Captura de Pantalla 2](public/Flixpreview2.png)
 
 ## 🤝 Contribuciones
 
@@ -104,7 +105,3 @@ Sigue estos pasos para poner en marcha el proyecto:
 3. Realiza los cambios necesarios y haz un commit (\`git commit -m 'Añadir nueva funcionalidad'\`).
 4. Envía tus cambios (\`git push origin feature/nueva-funcionalidad\`).
 5. Abre un Pull Request.
-
-## 📄 Licencia
-
-
