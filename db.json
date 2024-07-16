@@ -1,0 +1,179 @@
+{
+  "categorias": [
+    {
+      "id": "438f9068-0361-4ffb-99ec-74eaab8e30af",
+      "name": "Front End",
+      "description": "Formación Front End de Alura Latam",
+      "color": "#6bd1ff",
+      "code": "123445564"
+    },
+    {
+      "id": "4e36a19d-9617-478f-ad53-bae52743e18f",
+      "name": "Back End",
+      "description": "Formación Back End de Alura Latam",
+      "color": "#00c86f",
+      "code": "12345546456"
+    },
+    {
+      "id": "0d9ba490-652d-4c52-a582-3af99b7c618d",
+      "name": "Innovación y Gestión",
+      "description": "Formación Innovación y Gestión de Alura Latam",
+      "color": "#fe8c2a",
+      "code": "123456654"
+    },
+    {
+      "id": "ac7c1700-d543-42a8-a23a-c9e7be5ead1d",
+      "name": "Mobile",
+      "description": "Contenido que vengo estudiando sobre React Native y Flutter",
+      "color": "#37972b",
+      "code": "1345678"
+    },
+    {
+      "id": "a429a009-6f11-4b39-9f2b-7346b7b2a58d",
+      "name": "Infraestrutura",
+      "description": "Todo lo que estoy aprendiendo sobre Docker y mucho mas",
+      "color": "#808717",
+      "code": "12345674"
+    },
+    {
+      "id": "73526e66-78b1-4856-8e29-8674b304ca5b",
+      "name": "Data Science",
+      "description": "Cosas de React y Python que vengo aprendiendo",
+      "color": "#29797f",
+      "code": "4561231"
+    },
+    {
+      "id": "7c75fdb6-117b-4874-8b5f-c7284f65dd4b",
+      "name": "Design UX",
+      "description": "Herramientas y técnicas que estudio sobre UX y Design",
+      "color": "#761f8e",
+      "code": "456123132"
+    },
+    {
+      "id": "5b88e5a0-21bd-4a95-9266-eb6567861f91",
+      "name": "Marketing Digital",
+      "description": "La forma de vender y monetizar mis ideas",
+      "color": "#204622",
+      "code": "846545"
+    }
+  ],
+  "videos": [
+    {
+      "id": "3a59abaa-1dc7-47e8-9b67-63985e15426e",
+      "title": "Cúando usar Let, Var y Const?",
+      "linkVideo": "https://www.youtube.com/watch?v=PztCEdIJITY",
+      "linkImg": "https://i.ytimg.com/vi/PztCEdIJITY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuXRGCpp6yODDhl8oO2DA9QsvjcA",
+      "category": "Front End",
+      "description": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript.",
+      "code": "464564546"
+    },
+    {
+      "id": "b25452bd-c2d7-44eb-b3fd-887c964fc9b6",
+      "title": "¿Qué es JavaScript?",
+      "linkVideo": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
+      "linkImg": "https://i.ytimg.com/vi/GJfOSoaXk4s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOJl5rXP06Fhd-63FGMvPSf7Mfrg",
+      "category": "Front End",
+      "description": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips.",
+      "code": "12345678"
+    },
+    {
+      "id": "1be9cdd5-1bfd-43b2-9e4a-d917223e0321",
+      "title": "Equipo Front End",
+      "linkVideo": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+      "linkImg": "https://i.ytimg.com/vi/rpvrLaBQwgg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfpFAH9QXqcbVat7Z_oWkbjnFT6g",
+      "category": "Front End",
+      "description": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa área de tecnología?\nEn este video, Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End.",
+      "code": "123456984"
+    },
+    {
+      "id": "bf924b7c-7c33-4413-92fb-fc6fbecd88b7",
+      "title": "¿Cómo un desarrollador Front End utiliza el Figma?",
+      "linkVideo": "https://www.youtube.com/watch?v=UuAX5azcvDQ",
+      "linkImg": "https://i.ytimg.com/vi/UuAX5azcvDQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANQCnxWMWjK09Z80LzZEn4oj0PGQ",
+      "category": "Front End",
+      "description": "En este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta",
+      "code": "1234566494"
+    },
+    {
+      "id": "83340821-6fe5-44da-b0c9-d85ef55cfd25",
+      "title": "Qué Significa Pensar Como Programador",
+      "linkVideo": "https://www.youtube.com/watch?v=ov7vA5HFe6w",
+      "linkImg": "https://i.ytimg.com/vi/ov7vA5HFe6w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2B6wphxS2RA7tQcOphXdyi6WF4g",
+      "category": "Front End",
+      "description": "¿Cuáles son las principales características de un programador? ¿Qué habilidades y competencias debe tener alguien que quiere seguir esa carrera? \nEn este video Christian Velasco nos habla de las principales características de un Programador.\n¿Quieres saber más?",
+      "code": "12345648954"
+    },
+    {
+      "id": "2ed5aa72-4eb7-48bc-ada3-98b94e13dcc7",
+      "title": "Spring Framework. ¿Qué es ?",
+      "linkVideo": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
+      "linkImg": "https://i.ytimg.com/vi/t-iqt1b2qqk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjy-AQhBnJTTm-AJ0IMcn_8YKWrg",
+      "category": "Back End",
+      "description": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda.",
+      "code": "123456213546"
+    },
+    {
+      "id": "9ee86e3d-8c2f-4a73-97a0-193e1336374a",
+      "title": "¿Qué es SQL y NoSQL?",
+      "linkVideo": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
+      "linkImg": "https://i.ytimg.com/vi/cLLKVd5CNLc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyFVbM4yUyMj22WNRq-uKhpLS8NQ",
+      "category": "Back End",
+      "description": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo.",
+      "code": "12345695421"
+    },
+    {
+      "id": "351c4747-91b1-4591-bb9b-49ab93f1da14",
+      "title": "Simplificando tu código en Java",
+      "linkVideo": "https://www.youtube.com/watch?v=EoPvlE85XAQ",
+      "linkImg": "https://i.ytimg.com/vi/EoPvlE85XAQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFbjGz8uhDWikgJo3WcW54ye03Wg",
+      "category": "Back End",
+      "description": "¿Escribir muchas variables del tipo constantes en Java te parece un proceso tedioso y que genera muchas líneas de código?\nEn este Alura+ la instructora Génesys Rondón nos enseña a simplificar esta tarea usando un tipo de dato especial llamado enum.",
+      "code": "123456749686"
+    },
+    {
+      "id": "1ff7044f-2202-4aff-8d07-13aa78bb1f2d",
+      "title": "Desmistificando el Back-End",
+      "linkVideo": "https://www.youtube.com/watch?v=LLt7FreeHfQ",
+      "linkImg": "https://i.ytimg.com/vi/LLt7FreeHfQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAix8VbZqRBDWNK_YtO7CkhFOgvkg",
+      "category": "Back End",
+      "description": "¿Qué es backend?  ¿Por qué debería comenzar mi carrera con backend?\n¿Cuáles son las skills necesarias para ser un buen desarrollador backend?\n¿Qué hace un desarrollador backend en su dia a dia laboral?",
+      "code": "4613464514"
+    },
+    {
+      "id": "099a7d9b-67ad-4010-a27f-bf8f3202351d",
+      "title": "¿Qué son las Soft Skills?",
+      "linkVideo": "https://www.youtube.com/watch?v=vhwspfvI52k",
+      "linkImg": "https://i.ytimg.com/vi/vhwspfvI52k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1wbrXCzeQWVWde43lyuTxyV7yoA",
+      "category": "Innovación y Gestión",
+      "description": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día.",
+      "code": "234568"
+    },
+    {
+      "id": "03f80fcf-8ed0-4c61-aea8-7c03e478935f",
+      "title": "7 Soft Skills más deseadas por las empresas",
+      "linkVideo": "https://www.youtube.com/watch?v=YhR7Zp8NUzE",
+      "linkImg": "https://i.ytimg.com/vi/YhR7Zp8NUzE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCW8WXDfotlG3aB2F1Fa5G-XRmmjw",
+      "category": "Innovación y Gestión",
+      "description": "Seguro que ya escuchaste hablar sobre las Soft Skills, pero ¿sabes cuáles son las 7 más buscadas por las empresas? Quédate en este video con nosotros que vamos a explicarte la importancia de estas habilidades y porque son tan requeridas en el mercado laboral.",
+      "code": "812315"
+    },
+    {
+      "id": "fa39b62b-6033-406a-a9db-004ccd964ad5",
+      "title": "¿Qué son las metodologias ágiles?",
+      "linkVideo": "https://www.youtube.com/watch?v=6N3OkLCfK-0",
+      "linkImg": "https://i.ytimg.com/vi/6N3OkLCfK-0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFZrMohnYPniVfnP4b8Ggzvm7jAQ",
+      "category": "Innovación y Gestión",
+      "description": "En este video nuestra invitada, Andyara, nos explicará que són las muy conocidas hoy en día metodologias ágiles y nos comentará un poco sobre como aplicarlas y cuáles son los beneficios de utilizarlas en su equipo o empresa.",
+      "code": "821321"
+    },
+    {
+      "id": "209f599a-3463-4a50-9dba-53021ab7cbe0",
+      "title": "¿Cuáles son las soft y hard skills necesarias para trabajar con tecnología?",
+      "linkVideo": "https://www.youtube.com/watch?v=7lnmW8fB0nM",
+      "linkImg": "https://i.ytimg.com/vi/7lnmW8fB0nM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB98If_xfvwL8ZnDNWBv44GePTeZA",
+      "category": "Innovación y Gestión",
+      "description": "¿Quieres saber cuáles son las Soft Skills más buscadas en el área de tecnología? En este video nuestras invitadas comentan sobre las Soft Skills y Hard Skills necesárias para trabajar con tencología.",
+      "code": "841231543"
+    }
+  ]
+}

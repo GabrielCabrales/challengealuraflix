@@ -1,0 +1,31 @@
+.MuiBox-root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #53585D !important;
+    border: none !important;
+    color: #FFFFFF;
+    border-radius: 1rem;
+    height: 6rem;
+}
+
+#transition-modal-title {
+    text-align: center;
+}
+
+@media screen and (min-width: 425px) and (max-width: 767px) {
+    .MuiBox-root {
+        width: 300px !important;
+    }
+}
+
+@media screen and (min-width: 0) and (max-width: 424px) {
+    .MuiBox-root {
+        width: 150px !important;
+        padding: 0.8rem 1rem;
+    }
+
+    #transition-modal-title {
+        font-size: 1rem;
+    }
+}

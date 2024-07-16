@@ -1,0 +1,14 @@
+.container__Category {
+    max-width: 1900px;
+    margin: 0 auto;
+}
+
+.slick-dots li.slick-active button:before {
+    color: #2a7ae4;
+    font-size: .6rem;
+}
+
+.slick-dots li button:before {
+    color: #2a7ae4;
+    font-size: .6rem;
+}

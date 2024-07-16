@@ -1,0 +1,45 @@
+.input__form label {
+    color: #E5E5E5 !important;
+}
+
+.input__form input {
+    border-radius: 0.4rem;
+    background: #53585D;
+}
+
+.input__form textarea {
+    color: #FFFFFF;
+}
+
+.input__form .MuiInputBase-root,
+.MuiInputBase-root:hover {
+    color: #FFFFFF !important;
+    background: #53585D;
+}
+
+.MuiInputBase-root {
+    background: #53585D !important;
+}
+
+.MuiPaper-root,
+.Mui-selected {
+    background: #53585D !important;
+    color: #FFFFFF !important;
+}
+
+.input__form-color label {
+    color: #E5E5E5 !important;
+}
+
+@media screen and (min-width: 0px) and (max-width: 424px) {
+
+    .input__form input,
+    .input__form label,
+    .input__form textarea,
+    .MuiList-root li,
+    .input__form-color label,
+    .MuiSelect-select {
+        font-size: 0.7rem !important;
+    }
+
+}
