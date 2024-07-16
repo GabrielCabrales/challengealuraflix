@@ -11,6 +11,8 @@ import Video from "./pages/Video";
 import EditDeleteVideo from "./pages/Edit_DeleteVideo";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop";
+import { SpeedInsights } from "@vercel/speed-insights/react"
+require('dotenv').config();
 
 function App() {
   return (
@@ -18,6 +20,7 @@ function App() {
       <Router>
         <Header/>
         <ScrollToTop />
+        <SpeedInsights />
         <Routes>
           <Route path='/' element={<Main />} />
           <Route path='/nuevoVideo' element={<FormAddVideo />} />

@@ -141,8 +141,8 @@ const Chatbot = () => {
   const [isVisible, setIsVisible] = useState(false);
   const messagesEndRef = useRef(null);
 
-  const googleApiKey = 'AIzaSyBG9afuB7hfplBuCCB-DoJRu09FTXtF02g'; // Reemplaza con tu clave de API de Google
-  const searchEngineId = '25305101969284c44'; // Reemplaza con tu ID de motor de búsqueda personalizado
+  const googleApiKey = key.env.REACT_APP_GOOGLE_API_KEY;
+  const searchEngineId = key.env.REACT_APP_SEARCH_ENGINE_ID;
 
   useEffect(() => {
     const fetchVideos = async () => {
