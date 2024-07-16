@@ -1,98 +1,107 @@
-AluraFlix 🎥
-¡Bienvenido a AluraFlix! Un proyecto desarrollado con React y Node.js para gestionar y visualizar contenido multimedia. 🚀
 
-📂 Estructura del Proyecto
-Banner 📸: Muestra el banner principal del sitio.
+# AluraFlix 🎥
 
-index.jsx
-Button 🔘: Botón reutilizable para varias acciones.
+¡Bienvenido a **AluraFlix**! Un proyecto desarrollado con React y Node.js para gestionar y visualizar contenido multimedia. 🚀
 
-index.jsx
-Categoria 🗂️: Gestiona y muestra las categorías de los videos.
+## 📂 Estructura del Proyecto
 
-index.jsx
-style.css
-Chatbot 🤖: Interfaz del chatbot para interactuar con los usuarios.
+- **Banner** 📸: Muestra el banner principal del sitio.
+  - `index.jsx`
 
-Chatbot.js
-CSS 🎨: Estilos generales del proyecto.
+- **Button** 🔘: Botón reutilizable para varias acciones.
+  - `index.jsx`
 
-estilos.css
-EmptyVideos 📭: Muestra un mensaje cuando no hay videos disponibles.
+- **Categoria** 🗂️: Gestiona y muestra las categorías de los videos.
+  - `index.jsx`
+  - `style.css`
 
-index.jsx
-Footer 👣: Pie de página del sitio.
+- **Chatbot** 🤖: Interfaz del chatbot para interactuar con los usuarios.
+  - `Chatbot.js`
 
-index.jsx
-FormVideo 📋: Formulario para agregar nuevos videos.
+- **CSS** 🎨: Estilos generales del proyecto.
+  - `estilos.css`
 
-index.jsx
-Header 🏠: Encabezado del sitio.
+- **EmptyVideos** 📭: Muestra un mensaje cuando no hay videos disponibles.
+  - `index.jsx`
 
-index.jsx
-Images 🖼️: Recursos gráficos utilizados en el proyecto.
+- **Footer** 👣: Pie de página del sitio.
+  - `index.jsx`
 
-HeroBG.png, LogoFooter.png, LogoMenu.png, player.png
-Inputs ⌨️: Componentes de entrada de datos.
+- **FormVideo** 📋: Formulario para agregar nuevos videos.
+  - `index.jsx`
 
-index.jsx
-style.css
-Main 🖥️: Contenido principal de la aplicación.
+- **Header** 🏠: Encabezado del sitio.
+  - `index.jsx`
 
-index.jsx
-Modal 🔲: Ventanas modales para interacciones adicionales.
+- **Images** 🖼️: Recursos gráficos utilizados en el proyecto.
+  - `HeroBG.png`, `LogoFooter.png`, `LogoMenu.png`, `player.png`
 
-index.jsx
-style.css
-ScrollToTop 🔝: Botón para regresar al inicio de la página.
+- **Inputs** ⌨️: Componentes de entrada de datos.
+  - `index.jsx`
+  - `style.css`
 
-index.jsx
-SearchBar 🔍: Barra de búsqueda para encontrar videos.
+- **Main** 🖥️: Contenido principal de la aplicación.
+  - `index.jsx`
 
-SearchBar.js, SearchBar.rar
-Table 🗃️: Tabla para mostrar datos de los videos.
+- **Modal** 🔲: Ventanas modales para interacciones adicionales.
+  - `index.jsx`
+  - `style.css`
 
-index.jsx
-style.css
-TitleForm 📝: Título del formulario.
+- **ScrollToTop** 🔝: Botón para regresar al inicio de la página.
+  - `index.jsx`
 
-index.jsx
-🚀 Instalación
+- **SearchBar** 🔍: Barra de búsqueda para encontrar videos.
+  - `SearchBar.js`, `SearchBar.rar`
+
+- **Table** 🗃️: Tabla para mostrar datos de los videos.
+  - `index.jsx`
+  - `style.css`
+
+- **TitleForm** 📝: Título del formulario.
+  - `index.jsx`
+
+## 🚀 Instalación
+
 Sigue estos pasos para poner en marcha el proyecto:
 
-Clona el repositorio:
+1. Clona el repositorio:
+   \`\`\`sh
+   git clone https://github.com/GabrielCabrales/challengealuraflix.git
+   \`\`\`
 
-sh
-Copiar código
-git clone https://github.com/GabrielCabrales/challengealuraflix
-Navega a la carpeta del proyecto:
+2. Navega a la carpeta del proyecto:
+   \`\`\`sh
+   cd aluraflix
+   \`\`\`
 
-sh
-Copiar código
-cd aluraflix
-Instala las dependencias:
+3. Instala las dependencias:
+   \`\`\`sh
+   npm install
+   \`\`\`
 
-sh
-Copiar código
-npm install
-Inicia el servidor de desarrollo:
+4. Inicia el servidor de desarrollo:
+   \`\`\`sh
+   npm start
+   \`\`\`
 
-sh
-Copiar código
-npm start
-🛠️ Funcionalidades
-Gestión de videos: Agrega, edita y elimina videos.
-Categorías: Organiza los videos en categorías.
-Búsqueda: Encuentra videos rápidamente con la barra de búsqueda.
-Interfaz amigable: Diseño intuitivo y fácil de usar.
-📷 Capturas de Pantalla
-Añade algunas capturas de pantalla de tu proyecto aquí.
+## 🛠️ Funcionalidades
 
-🤝 Contribuciones
+- **Gestión de videos**: Agrega, edita y elimina videos.
+- **Categorías**: Organiza los videos en categorías.
+- **Búsqueda**: Encuentra videos rápidamente con la barra de búsqueda.
+- **Interfaz amigable**: Diseño intuitivo y fácil de usar.
+
+## 📷 Capturas de Pantalla
+
+![Captura de Pantalla 1](public/Flixpreview1.png)
+![Captura de Pantalla 2](public/Flixpreview2.png)
+
+## 🤝 Contribuciones
+
 ¡Las contribuciones son bienvenidas! Si deseas contribuir, por favor sigue estos pasos:
 
-Haz un fork del proyecto.
-Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
-Realiza los cambios necesarios y haz un commit (git commit -m 'Añadir nueva funcionalidad').
-Envía tus cambios (git push origin feature/nueva-funcionalidad).
-Abre un Pull Request.
+1. Haz un fork del proyecto.
+2. Crea una nueva rama (\`git checkout -b feature/nueva-funcionalidad\`).
+3. Realiza los cambios necesarios y haz un commit (\`git commit -m 'Añadir nueva funcionalidad'\`).
+4. Envía tus cambios (\`git push origin feature/nueva-funcionalidad\`).
+5. Abre un Pull Request.
